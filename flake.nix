@@ -36,7 +36,7 @@
         '';
         meta = {
           description = "Leta Searcher (CLI)";
-          homepage = "https://github.com/janpstrunn/search-sh";
+          homepage = "https://github.com/anstrinn/search-sh";
           license = pkgs.lib.licenses.mit;
         };
       };
