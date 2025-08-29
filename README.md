@@ -30,7 +30,7 @@ lynx
 ## Installation
 
 ```bash
-git clone https://github.com/anstrinn/search-sh
+git clone https://github.com/aocoronel/search-sh
 chmod +x search-sh/src/leta-searcher.py
 chmod +x search-sh/src/search
 sudo cp search-sh/src/leta-searcher.py /usr/local/bin/
@@ -40,7 +40,7 @@ sudo cp search-sh/src/search /usr/local/bin/
 Or, you can try it using the `nix` package manager.
 
 ```bash
-nix run https://github.com/anstrinn/search-sh
+nix run https://github.com/aocoronel/search-sh
 ```
 
 ## Usage
